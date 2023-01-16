@@ -1,0 +1,22 @@
+{
+  "name": "bank_account",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha --no-timeouts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lemak91/Bank_Account.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lemak91/Bank_Account/issues"
+  },
+  "homepage": "https://github.com/lemak91/Bank_Account#readme",
+  "dependencies": {
+    "mocha": "^10.2.0"
+  }
+}
